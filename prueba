@@ -1,0 +1,6 @@
+echo "# ariosto" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Ariosto10/ariosto.git
+git push -u origin master
